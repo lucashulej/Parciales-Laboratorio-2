@@ -1,0 +1,7 @@
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_01\bin\Debug\PP_01.exe.config
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_01\bin\Debug\PP_01.exe
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_01\bin\Debug\PP_01.pdb
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_01\obj\Debug\PP_01.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_01\obj\Debug\PP_01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_01\obj\Debug\PP_01.exe
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_01\obj\Debug\PP_01.pdb

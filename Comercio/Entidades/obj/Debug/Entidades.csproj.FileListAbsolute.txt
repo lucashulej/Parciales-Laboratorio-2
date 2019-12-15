@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_Real\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_Real\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_Real\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_Real\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\PP Laboratorio 2\PP_Real\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucas\Desktop\PP Laboratorio 2\Comercio\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\PP Laboratorio 2\Comercio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Desktop\PP Laboratorio 2\Comercio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\PP Laboratorio 2\Comercio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\PP Laboratorio 2\Comercio\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\PP Laboratorio 2\Comercio\Entidades\obj\Debug\Entidades.pdb

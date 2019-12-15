@@ -1,0 +1,6 @@
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\obj\Debug\TestEstante.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\obj\Debug\TestEstante.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\bin\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\obj\Debug\TestEstante.csproj.CopyComplete
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Lucas\Desktop\ModelosLaboratorio_2\Productos\TestEstante\obj\Debug\TestEstante.pdb
