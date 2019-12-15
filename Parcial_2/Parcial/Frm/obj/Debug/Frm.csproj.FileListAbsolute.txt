@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\bin\Debug\Frm.exe.config
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\bin\Debug\Frm.exe
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\bin\Debug\Frm.pdb
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\bin\Debug\Entidades.dll
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\obj\Debug\Frm.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\obj\Debug\Frm.Form1.resources
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\obj\Debug\Frm.Properties.Resources.resources
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\obj\Debug\Frm.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\obj\Debug\Frm.csproj.CopyComplete
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\obj\Debug\Frm.exe
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\obj\Debug\Frm.pdb
+C:\Users\Lucas\Desktop\ParcialFrutas\Parcial\Frm\bin\Debug\Entidades.dll.config
